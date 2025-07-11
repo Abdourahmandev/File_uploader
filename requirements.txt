@@ -1,4 +1,6 @@
 flask
-pyodbc
+python-dotenv
+werkzeug
 ipykernel
 jupyter
+pyodbc
